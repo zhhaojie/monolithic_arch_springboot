@@ -4,3 +4,6 @@
 - Guava 类库 （Cache ｜ EventBus ｜ RateLimiter ...）
 - Resilience4j （熔断降级 ｜ 在应用代码集成）
 - Failsafe （轻量级的处理故障的类库）
+- Tsid-creator
+- JTE
+- jobrunr
